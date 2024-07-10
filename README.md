@@ -5,7 +5,7 @@ SQL queries? Check them out here [project_sql folder](/project_sql1/).
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
-Data hails from my SQL Course. It's packed with insights on job titles, salaries, locations, and essential skills.
+Data hails from my **SQL Course**. It's packed with insights on job titles, salaries, locations, and essential skills.
 
 The questions I wanted to answer through my SQL queries were:
 What are the top-paying data analyst jobs?
@@ -55,14 +55,19 @@ LIMIT 10
 ![Top Paying Roles](assets\top_paying_roles.png)
 
 
-    Here are some key conclusions about the top data analyst jobs in London:
+Here are some key conclusions about the top data analyst jobs in London:
 
-Wide Salary Range: Salaries range from £100,500 to £177,283 per year.
-Diverse Employers: Companies like DeepMind, Logispin, and AccorCorpo are offering high salaries.
-Varied Job Titles: Roles include "Research Engineer," "Data Architect," and "Analytics Engineer."
-London Focus: All positions are based in London, UK.
-Full-time Roles: All positions are full-time.
-Recent Postings: Job postings are from January to August 2023.
+**Wide Salary Range:** Salaries range from £100,500 to £177,283 per year.
+
+**Diverse Employers:** Companies like DeepMind, Logispin, and AccorCorpo are offering high salaries.
+
+**Varied Job Titles**: Roles include "Research Engineer," "Data Architect," and "Analytics Engineer."
+
+**London Focus:** All positions are based in London, UK.
+
+**Full-time Roles:** All positions are full-time.
+
+**Recent Postings:** Job postings are from January to August 2023.
 
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
@@ -101,13 +106,15 @@ ORDER BY
 
 ![Top Paying Job Skills](assets\top_paying_job_skills.png) 
     
-    Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in London:
+Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in London:
 
 
-Python Dominates: Python is a highly sought-after skill, appearing in multiple top-paying job listings.
-Technical Skills Pay Well: Skills like C++, Pandas, Numpy, TensorFlow, and PyTorch are associated with higher salaries.
-Database and Cloud Expertise: NoSQL, SQL, and Azure are critical for high-paying data roles.
-Data Visualization Tools: Proficiency in Tableau and Looker is valuable and well-compensated.
+**Python Dominates:** Python is a highly sought-after skill, appearing in multiple top-paying job listings.
+
+**Technical Skills Pay Well:** Skills like C++, Pandas, Numpy, TensorFlow, and PyTorch are associated with higher salaries.
+**Database and Cloud Expertise:** NoSQL, SQL, and Azure are critical for high-paying data roles.
+
+**Data Visualization Tools:** Proficiency in Tableau and Looker is valuable and well-compensated.
 Broad Skill Set: Diverse skills, including Excel, VBA, and GDPR, are important across different job roles and companies.
 
 ### 3. In-Demand Skills for Data Analysts
@@ -131,10 +138,11 @@ ORDER BY
 LIMIT 5
 ```
 
-    Here's the breakdown of the most demanded skills for data analysts in London
+Here's the breakdown of the most demanded skills for data analysts in London
 
-SQL and Python are fundamental, emphasizing the need for strong foundational skills in database management and programming.
-Excel and Visualization Tools like Tableau and Power BI are essential, highlighting the importance of spreadsheet manipulation and data visualization skills in data analysis roles.
+**SQL** and **Python** are fundamental, emphasizing the need for strong foundational skills in database management and programming.
+
+**Excel** and Visualization Tools like **Tableau** and **Power BI** are essential, highlighting the importance of spreadsheet manipulation and data visualization skills in data analysis roles.
 
 |Skills	  |Demand Count |
 |---------|-------------|
@@ -175,6 +183,7 @@ LIMIT 10;
 Here's a breakdown of the results for top paying skills for Data Analysts:
 
 High Demand for Data Science Libraries & Big Data Skills: Top salaries are commanded by analysts skilled in **Python** libraries **(Pandas, NumPy, PyTorch, TensorFlow)** and big data technologies (NoSQL, Azure), reflecting the industry's high valuation of data processing, machine learning, and cloud computing capabilities.
+
 Software Development & Programming Proficiency: Knowledge in programming languages and development tools **(C++, JavaScript, Python)** indicates a lucrative crossover between data analysis and software development, with a premium on skills that enhance data manipulation and application development.
 
 
@@ -256,15 +265,15 @@ ORDER BY
 
 Table of the most optimal skills for data analyst sorted by salary
 
-    Here's a concise breakdown of the top skills for Data Analysts in London:
+Here's a concise breakdown of the top skills for Data Analysts in London:
 
-Python and R: Highly demanded for data analysis, Python (demand count: 236, avg. salary: $110,353) and R (demand count: 148, avg. salary: $100,499) are crucial for statistical computing and data manipulation.
+**Python and R:** Highly demanded for data analysis, Python (demand count: 236, avg. salary: $110,353) and R (demand count: 148, avg. salary: $100,499) are crucial for statistical computing and data manipulation.
 
-Cloud Platforms: Skills in Snowflake, Azure, AWS, and BigQuery are in high demand, reflecting the shift towards cloud-based data solutions. They offer competitive salaries, highlighting their importance in modern data analytics.
+**Cloud Platforms:** Skills in Snowflake, Azure, AWS, and BigQuery are in high demand, reflecting the shift towards cloud-based data solutions. They offer competitive salaries, highlighting their importance in modern data analytics.
 
-Business Intelligence Tools: Tableau (demand count: 230, avg. salary: $99,288) and Looker (demand count: 49, avg. salary: $103,795) are essential for data visualization and deriving actionable insights, with Looker commanding a higher average salary.
+**Business Intelligence Tools:** Tableau (demand count: 230, avg. salary: $99,288) and Looker (demand count: 49, avg. salary: $103,795) are essential for data visualization and deriving actionable insights, with Looker commanding a higher average salary.
 
-Database Technologies: Expertise in Oracle, SQL Server, and NoSQL databases remains critical, with salaries ranging from $97,786 to $104,534. These skills are vital for effective data storage and management.
+**Database Technologies:** Expertise in Oracle, SQL Server, and NoSQL databases remains critical, with salaries ranging from $97,786 to $104,534. These skills are vital for effective data storage and management.
 
 These insights highlight the diverse skill set required for data analysts in 2023, emphasizing proficiency in programming languages, cloud technologies, business intelligence tools, and database management systems.
 
@@ -283,11 +292,11 @@ Salary Range Diversity: London offers a range of salaries for data analysts, wit
 
 Essential Skills for Top Salaries: Proficiency in SQL emerges as crucial for securing high-paying data analyst roles in London.
 
-High Demand for SQL: SQL stands out as the most sought-after skill among London data analyst job postings, underscoring its importance in job readiness.
+**High Demand for SQL:** SQL stands out as the most sought-after skill among London data analyst job postings, underscoring its importance in job readiness.
 
-Specialized Skills Command Premium Salaries: Niche skills like Looker and Python correlate with the highest average salaries, highlighting the value of specialized expertise.
+**Specialized Skills Command Premium Salaries:** Niche skills like Looker and Python correlate with the highest average salaries, highlighting the value of specialized expertise.
 
-Strategic Skills for Market Value: SQL not only leads in demand but also offers substantial average salaries, positioning it as a strategic skill for maximizing market value in London's data analyst sector.
+**Strategic Skills for Market Value:** SQL not only leads in demand but also offers substantial average salaries, positioning it as a strategic skill for maximizing market value in London's data analyst sector.
 
 ## Closing Reflections
 This project has enriched my understanding of London's data analyst job landscape, emphasizing the significance of skill development tailored to market demands. By focusing on high-demand skills and adapting to evolving industry trends, aspiring data analysts can enhance their competitive edge and navigate a dynamic job market effectively.
