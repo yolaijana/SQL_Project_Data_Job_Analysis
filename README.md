@@ -99,7 +99,7 @@ ORDER BY
     salary_year_avg DESC
 ```
 
-![Top Paying Job Skills](assets\top_paying_job_skills.png) 
+![Top Paying Job Skills](F:\Data Analyst\SQL_Project_Data_Job_Analysis\assets\top_paying_job_skills.png) 
     
     Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in London:
 
