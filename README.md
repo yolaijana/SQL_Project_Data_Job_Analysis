@@ -99,7 +99,7 @@ ORDER BY
     salary_year_avg DESC
 ```
 
-![Top Paying Roles](assets\top_paying_job_skills.png) 
+![Top Paying Job Skills](assets\top_paying_job_skills.png) 
     
     Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in London:
 
@@ -144,7 +144,7 @@ Excel and Visualization Tools like Tableau and Power BI are essential, highlight
 |Tableau  |72           |
 |Power BI |67           |
 
-![Top Paying Roles](assets\top_demanded_skills.png) 
+![Top Demand Skills](assets\top_demanded_skills.png) 
 
 Table of the demand for the top 5 skills in data analyst job postings
 
