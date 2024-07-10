@@ -21,7 +21,7 @@ GROUP BY
     skills 
 ORDER BY
     salary_avg DESC
-LIMIT 25
+LIMIT 10
 
 
 /*
@@ -45,18 +45,9 @@ Data modeling, and modern data warehousing solutions.
 - Skills in SharePoint, Outlook, Word, and Sheets show the continued importance of office tools in data roles.
 - Go programming language skills are valued at £89,338, 
 Indicating demand for modern programming languages in data roles.
-
 [
   {
     "skills": "pandas",
-    "salary_avg": "177283"
-  },
-  {
-    "skills": "tensorflow",
-    "salary_avg": "177283"
-  },
-  {
-    "skills": "c++",
     "salary_avg": "177283"
   },
   {
@@ -65,6 +56,14 @@ Indicating demand for modern programming languages in data roles.
   },
   {
     "skills": "numpy",
+    "salary_avg": "177283"
+  },
+  {
+    "skills": "tensorflow",
+    "salary_avg": "177283"
+  },
+  {
+    "skills": "c++",
     "salary_avg": "177283"
   },
   {
@@ -86,66 +85,6 @@ Indicating demand for modern programming languages in data roles.
   {
     "skills": "azure",
     "salary_avg": "105211"
-  },
-  {
-    "skills": "dax",
-    "salary_avg": "105000"
-  },
-  {
-    "skills": "gdpr",
-    "salary_avg": "105000"
-  },
-  {
-    "skills": "sharepoint",
-    "salary_avg": "100500"
-  },
-  {
-    "skills": "outlook",
-    "salary_avg": "100500"
-  },
-  {
-    "skills": "matlab",
-    "salary_avg": "98500"
-  },
-  {
-    "skills": "looker",
-    "salary_avg": "97534"
-  },
-  {
-    "skills": "sheets",
-    "salary_avg": "96013"
-  },
-  {
-    "skills": "tableau",
-    "salary_avg": "93466"
-  },
-  {
-    "skills": "sql",
-    "salary_avg": "92307"
-  },
-  {
-    "skills": "excel",
-    "salary_avg": "89402"
-  },
-  {
-    "skills": "go",
-    "salary_avg": "89338"
-  },
-  {
-    "skills": "word",
-    "salary_avg": "85750"
-  },
-  {
-    "skills": "power bi",
-    "salary_avg": "84975"
-  },
-  {
-    "skills": "vba",
-    "salary_avg": "84338"
-  },
-  {
-    "skills": "snowflake",
-    "salary_avg": "80850"
   }
 ]
 

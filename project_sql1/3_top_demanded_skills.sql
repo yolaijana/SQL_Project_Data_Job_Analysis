@@ -17,9 +17,37 @@ INNER JOIN skills_job_dim sjd ON jpf.job_id = sjd.job_id
 INNER JOIN skills_dim sd ON sjd.skill_id = sd.skill_id
 WHERE
     job_title_short = 'Data Analyst' AND 
-    job_location = 'New York, NY'
+    job_location = 'London, UK'
 GROUP BY
     skills 
 ORDER BY
     demand_count DESC
 LIMIT 5
+
+
+/* JSON result
+
+[
+  {
+    "skills": "sql",
+    "demand_count": "182"
+  },
+  {
+    "skills": "python",
+    "demand_count": "152"
+  },
+  {
+    "skills": "excel",
+    "demand_count": "98"
+  },
+  {
+    "skills": "tableau",
+    "demand_count": "72"
+  },
+  {
+    "skills": "power bi",
+    "demand_count": "67"
+  }
+]  
+
+*/
