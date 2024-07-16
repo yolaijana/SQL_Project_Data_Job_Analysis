@@ -52,7 +52,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10
 ```
-![Top Paying Roles](assets\top_paying_roles.JPG)
+![Top Paying Roles](assets\top_paying_roles.gif)
 
 Here are some key conclusions about the top data analyst jobs in London:
 
@@ -103,7 +103,7 @@ ORDER BY
     salary_year_avg DESC
 ```
 
-![Top Paying Job Skills](assets\top_paying_job_skills.JPG) 
+![Top Paying Job Skills](assets\top_paying_job_skills.gif) 
     
 Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in London:
 
@@ -151,7 +151,7 @@ Here's the breakdown of the most demanded skills for data analysts in London
 |Tableau  |72           |
 |Power BI |67           |
 
-![Top Demand Skills](assets\top_demanded_skills.JPG) 
+![Top Demand Skills](assets\top_demanded_skills.gif) 
 
 Table of the demand for the top 5 skills in data analyst job postings
 
