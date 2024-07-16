@@ -54,6 +54,8 @@ LIMIT 10
 ```
 ![Top Paying Roles](assets\top_paying_roles.png)
 
+<img src='./assets/top_paying_roles.png' name='pic'>
+
 Here are some key conclusions about the top data analyst jobs in London:
 
 **Wide Salary Range:** Salaries range from £100,500 to £177,283 per year.
